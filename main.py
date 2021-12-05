@@ -1,3 +1,4 @@
+#This program is used to scrape for gifts given a singular query.
 from urllib.request import Request, urlopen
 from random import shuffle
 from bs4 import BeautifulSoup
